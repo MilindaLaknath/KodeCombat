@@ -23,7 +23,7 @@ import robocode.BravoBot;
  * @author Mathew A. Nelson (original)
  * @author Flemming N. Larsen (contributor)
  */
-public class gaiya_wall extends BravoBot {
+public class NETCLOUD extends BravoBot {
 
 	boolean peek; // Don't turn if there's a robot there
 	double moveAmount; // How much to move
